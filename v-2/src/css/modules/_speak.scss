@@ -6,6 +6,7 @@
     &:before{
         content:'';
         position:absolute;
+        z-index:-1;
         left:20px;
         top:0px;
         right:20px;

@@ -4,6 +4,7 @@ var submitObject = function(one,two,obj){
         'one' : one,
         'two' : two, 
     }
+    updateBrainData(brainData,data.two,data);
     
     $.ajax({
         url : 'src/php/writeObject.php',

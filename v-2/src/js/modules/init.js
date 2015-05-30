@@ -1,8 +1,8 @@
+var brainData;
 $(function(){
 
     // Hent hjernen
-    var brain = $.getJSON('src/data/brain.json'),
-        brainData;
+    var brain = $.getJSON('src/data/brain.json');
     
     // Tjek at der findes en hjerne
     brain.fail(function(){console.log('Error fetching brain');});
@@ -61,7 +61,7 @@ $(function(){
         var form = $('<form class="hyponet-form"></form>'),
             input = $('<input type="text" name="data">'),
             send = $('<a href="#">send</a>');
-        form.append(input).append(send);
+        form.append(input);//.append(send);
         hyponet.append(form);
         clickhandlerForm(form,log);
         
@@ -69,5 +69,8 @@ $(function(){
         // Konstruer talerør
         var speak = $('<div class="hyponet-speak"></div>');
         hyponet.append(speak);
+        
+        form.keyup($.debounce(doSpeak, 300));
+        
     });
 });

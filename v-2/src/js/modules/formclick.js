@@ -4,8 +4,6 @@ form.on('click keypress',function(event){
     var target = $(event.target),
         input = form.children('input');
     
-    
-    
     if(target.is('a') || event.which == 13){
     
         event.preventDefault();
@@ -13,6 +11,8 @@ form.on('click keypress',function(event){
         var log_obj = $('<div></div>');
         log_obj.append(input.val());
         log.append(log_obj);
+        
+        updateBrainData(brainData,input.val(),false);
         
         var data = form.serialize();
     

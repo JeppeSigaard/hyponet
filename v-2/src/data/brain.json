@@ -75,5 +75,51 @@
     "37": {
         "one": "er et dyr",
         "two": "er et insekt"
-    }
+    },
+    "38": "er en hejre",
+    "39": {
+        "one": "er et insekt",
+        "two": "er en hejre"
+    },
+    "40": "er en m\u00f8sterbryder",
+    "41": {
+        "one": "er en hejre",
+        "two": "er en m\u00f8sterbryder"
+    },
+    "42": "er en leget\u00f8jsbil",
+    "43": {
+        "one": "er en m\u00f8sterbryder",
+        "two": "er en leget\u00f8jsbil"
+    },
+    "44": "er en hest",
+    "45": {
+        "one": "er en leget\u00f8jsbil",
+        "two": "er en hest"
+    },
+    "46": "er en ponny",
+    "47": {
+        "one": "er en hest",
+        "two": "er en ponny"
+    },
+    "48": "er en pony",
+    "49": {
+        "one": "er en ponny",
+        "two": "er en pony"
+    },
+    "50": "S\u00f8lle biller",
+    "51": "skiderikker",
+    "52": "fuldeb\u00f8tter",
+    "53": {
+        "one": "skiderikker",
+        "two": "fuldeb\u00f8tter"
+    },
+    "54": "Jeg kan ligen snot",
+    "55": "brainData",
+    "56": "skide godt, missen!",
+    "57": "skide nemt, missen!",
+    "58": {
+        "one": "skide godt, missen!",
+        "two": "skide nemt, missen!"
+    },
+    "59": "sytten"
 }
