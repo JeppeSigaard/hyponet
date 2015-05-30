@@ -1,0 +1,23 @@
+.hyponet-form{
+    margin-top:20px;
+    height: 80px;
+    padding:$base-padding;
+    
+    input{
+        padding:10px;
+        font-size: inherit;
+        font-family: inherit;
+        display: block;
+        width:100%;
+        outline:none;
+        border:2px solid rgba(black,.1);
+        
+        &:focus{
+            border: 2px solid rgba(black,.3);
+        }
+    }
+    
+    a{
+        display: none;
+    }
+}

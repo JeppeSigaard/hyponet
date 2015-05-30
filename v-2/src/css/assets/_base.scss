@@ -1,0 +1,13 @@
+#hyponet{
+    max-width:600px;
+    margin:10px auto;
+    font-size: 1rem;
+    line-height: 1.6rem;
+    font-family: sans-serif;
+    color:$base-text;
+    box-sizing: border-box;
+    
+    *{
+        box-sizing: inherit;
+    }
+}

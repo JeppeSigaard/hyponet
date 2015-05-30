@@ -1,0 +1,79 @@
+{
+    "0": "Jeg har hatte p\u00e5",
+    "1": "Vi skal snart i skole",
+    "2": "Bruger du tandtr\u00e5d?",
+    "3": {
+        "one": "Jeg har hatte p\u00e5",
+        "two": "Jeg har h\u00e6tter p\u00e5"
+    },
+    "4": "Hej mit barn",
+    "5": "Du er vigtig for mig",
+    "6": {
+        "one": "Du er vigtig for mig",
+        "two": "hyponet&nbsp;er vigtig for mig"
+    },
+    "7": {
+        "one": "Hej mit barn",
+        "two": "det er noget jeg har sagt"
+    },
+    "8": {
+        "one": "hyponet&nbsp;er vigtig for mig",
+        "two": "hyponet&nbsp;er vigtig for villads"
+    },
+    "9": "Bruger du hvid sn\u00f8rre?",
+    "10": {
+        "one": "Bruger du tandtr\u00e5d?",
+        "two": "Bruger du hvid sn\u00f8rre?"
+    },
+    "11": "ja?",
+    "12": {
+        "one": "Bruger du hvid sn\u00f8rre?",
+        "two": "ja?"
+    },
+    "13": "Bruger hvid sn\u00f8rre?",
+    "14": {
+        "one": "Bruger du hvid sn\u00f8rre?",
+        "two": "Bruger hvid sn\u00f8rre?"
+    },
+    "15": "Bruger vi hvid sn\u00f8rre?",
+    "16": {
+        "one": "Bruger hvid sn\u00f8rre?",
+        "two": "Bruger vi hvid sn\u00f8rre?"
+    },
+    "17": "Nej helle",
+    "18": "samaritaner med stropper p\u00e5 ",
+    "19": "Sk\u00f8jtej\u00e6gere",
+    "20": "Jeg ka sagtens sy den kjole",
+    "21": "Jeg ka sagtens sy den tr\u00f8je",
+    "22": {
+        "one": "Jeg ka sagtens sy den kjole",
+        "two": "Jeg ka sagtens sy den tr\u00f8je"
+    },
+    "23": "Jeg kan lave honning",
+    "24": "Jeppe tjekker h\u00f8jden p\u00e5 loggen",
+    "25": "Bliver den ved med at virke ordentligt?",
+    "26": "M\u00e5ske forsvinder ting ikke som de skal?",
+    "27": "J\u00e6gere",
+    "28": {
+        "one": "Sk\u00f8jtej\u00e6gere",
+        "two": "J\u00e6gere"
+    },
+    "29": "Mine testikler er ekstra lange idag",
+    "30": "Mine boller er ekstra lange idag",
+    "31": {
+        "one": "Mine testikler er ekstra lange idag",
+        "two": "Mine boller er ekstra lange idag"
+    },
+    "32": "Boller",
+    "33": "Regnorm",
+    "34": "er et dyr",
+    "35": {
+        "one": "Regnorm",
+        "two": "er et dyr"
+    },
+    "36": "er et insekt",
+    "37": {
+        "one": "er et dyr",
+        "two": "er et insekt"
+    }
+}
