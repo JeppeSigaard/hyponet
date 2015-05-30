@@ -1,5 +1,5 @@
 var diff = {},
-output;
+output = '';
 function loopThroughBrainForExactMatch(brainData,brainLength,input,output){
     
     var old_output = output;
@@ -14,37 +14,15 @@ function loopThroughBrainForExactMatch(brainData,brainLength,input,output){
             diff = JsDiff.diffWords(brainData[i].one, brainData[i].two);
             
             if(brainData[i].one.toLowerCase() === input.toLowerCase()){
-                
-                output = '';
-                for (var key in diff) {
-                    if (diff.hasOwnProperty(key)) {
-
-                        if(diff[key].added === true){
-
-                            output += diff[key].value + ' ';             
-                        }
-                    }
-                }
-                
-                
+                output = brainData[i].two;
             }
             
             if (brainData[i].two.toLowerCase() === input.toLowerCase()){
-                output = '';
-                for (var key in diff) {
-                    if (diff.hasOwnProperty(key)) {
-
-                        if(diff[key].removed === true){
-
-                            output += diff[key].value + ' ';
-                        }
-                    }
-                }
+                output = brainData[i].one;
             }
         }
     }
-    output = output.trim();
-    console.log(old_output+' : '+output);
+    
     
     if(old_output !== output){
         loopThroughBrainForExactMatch(brainData,brainLength,output,output);
@@ -116,10 +94,12 @@ var doSpeak = function(event){
         console.log(inputCount);
     }
     
-    for (var i=0, l=brainLength; i<l; i++){
-    }
+    
     
     // Hvis intet resultat, returner et spørgsmålstegn
     if(output === ''){output = '-';}
+    
+    
+    
     speak.html(output);
 }
