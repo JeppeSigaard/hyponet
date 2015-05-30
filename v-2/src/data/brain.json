@@ -121,5 +121,153 @@
         "one": "skide godt, missen!",
         "two": "skide nemt, missen!"
     },
-    "59": "sytten"
+    "59": "sytten",
+    "60": "wqjdiqwjd",
+    "61": "wdhidoh",
+    "62": "qwdwji",
+    "63": "",
+    "64": "dqwd",
+    "65": "qwd",
+    "66": "qwdqwdqwdq",
+    "67": "wqdwd",
+    "68": "hvad er klokken?",
+    "69": "den er 22",
+    "70": "den er 22",
+    "71": {
+        "one": "hvad er klokken?",
+        "two": "den er 22"
+    },
+    "72": "hvad er 22?",
+    "73": {
+        "one": "hvad er klokken?",
+        "two": "hvad er 22?"
+    },
+    "74": "Jeg kan godt lide heste",
+    "75": "Jeg kan godt lide sesamfr\u00f8",
+    "76": {
+        "one": "Jeg kan godt lide heste",
+        "two": "Jeg kan godt lide sesamfr\u00f8"
+    },
+    "77": "sesamfr\u00f8",
+    "78": "jeg kan godt lide heste",
+    "79": {
+        "one": "sesamfr\u00f8",
+        "two": "jeg kan godt lide heste"
+    },
+    "80": "Hvad er jeppes telefonnummer",
+    "81": "Hvad er jeppes +45 21 92 74 65",
+    "82": {
+        "one": "Hvad er jeppes telefonnummer",
+        "two": "Hvad er jeppes +45 21 92 74 65"
+    },
+    "83": "Hej mit barn",
+    "84": "Nej det er noget jeg har sagt?",
+    "85": "Hvordan g\u00e5r det?",
+    "86": "Jeppe",
+    "87": "Verdens sejeste koder",
+    "88": {
+        "one": "Jeppe",
+        "two": "Verdens sejeste koder"
+    },
+    "89": "levemand",
+    "90": {
+        "one": "Verdens sejeste koder",
+        "two": "levemand"
+    },
+    "91": "geni",
+    "92": {
+        "one": "levemand",
+        "two": "geni"
+    },
+    "93": "jeppe",
+    "94": "i\u00f8vrigt ogs\u00e5 flink",
+    "95": {
+        "one": "jeppe",
+        "two": "i\u00f8vrigt ogs\u00e5 flink"
+    },
+    "96": "i\u00f8vrigt ogs\u00e5 s\u00f8d",
+    "97": {
+        "one": "i\u00f8vrigt ogs\u00e5 flink",
+        "two": "i\u00f8vrigt ogs\u00e5 s\u00f8d"
+    },
+    "98": "Hej mit sovs",
+    "99": {
+        "one": "Hej mit barn",
+        "two": "Hej mit sovs"
+    },
+    "100": "Tiden?",
+    "101": "Kan du klokken?",
+    "102": {
+        "one": "Tiden?",
+        "two": "Kan du klokken?"
+    },
+    "103": "Hvad er klokken?",
+    "104": {
+        "one": "Kan du klokken?",
+        "two": "Hvad er klokken?"
+    },
+    "105": "Hvad er den er 22?",
+    "106": {
+        "one": "Hvad er klokken?",
+        "two": "Hvad er den er 22?"
+    },
+    "107": "Hvad er klokken er 22?",
+    "108": {
+        "one": "Hvad er den er 22?",
+        "two": "Hvad er klokken er 22?"
+    },
+    "109": "Hvad er viser tiden er 22?",
+    "110": {
+        "one": "Hvad er klokken er 22?",
+        "two": "Hvad er viser tiden er 22?"
+    },
+    "111": "Hvad er viser 22:00 er 22?",
+    "112": {
+        "one": "Hvad er viser tiden er 22?",
+        "two": "Hvad er viser 22:00 er 22?"
+    },
+    "113": "Hvad er viser 22:01 er 22?",
+    "114": {
+        "one": "Hvad er viser 22:00 er 22?",
+        "two": "Hvad er viser 22:01 er 22?"
+    },
+    "115": "Hvad er viser 22:02 er 22?",
+    "116": {
+        "one": "Hvad er viser 22:01 er 22?",
+        "two": "Hvad er viser 22:02 er 22?"
+    },
+    "117": "Hvad er viser 22:03 er 22?",
+    "118": {
+        "one": "Hvad er viser 22:02 er 22?",
+        "two": "Hvad er viser 22:03 er 22?"
+    },
+    "119": "Men hvad er klokken nu?",
+    "120": "Men hvad er det som uret viser nu?",
+    "121": {
+        "one": "Men hvad er klokken nu?",
+        "two": "Men hvad er det som uret viser nu?"
+    },
+    "122": "Men hvad er det som det st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?",
+    "123": {
+        "one": "Men hvad er det som uret viser nu?",
+        "two": "Men hvad er det som det st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?"
+    },
+    "124": "Men hvad er det som klokken alts\u00e5 st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?",
+    "125": {
+        "one": "Men hvad er det som det st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?",
+        "two": "Men hvad er det som klokken alts\u00e5 st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?"
+    },
+    "126": "Men hvad er det som den er 22:03 alts\u00e5 st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?",
+    "127": {
+        "one": "Men hvad er det som klokken alts\u00e5 st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?",
+        "two": "Men hvad er det som den er 22:03 alts\u00e5 st\u00e5r nede i h\u00f8jre hj\u00f8rne af sk\u00e6rmen nu?"
+    },
+    "128": "tiden?",
+    "129": "jeppe",
+    "130": "er sej",
+    "131": {
+        "one": "jeppe",
+        "two": "er sej"
+    },
+    "132": "wffewef"
 }

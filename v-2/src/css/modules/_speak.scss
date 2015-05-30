@@ -2,6 +2,10 @@
     padding:$base-padding;
     position:relative;
     height:50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 1.2rem;
+    color:$base-speak-color;
     
     &:before{
         content:'';
@@ -12,5 +16,6 @@
         right:20px;
         bottom:0px;
         background:$base-speak-bg;
+        border-radius: $border-radius-box;
     }
 }
