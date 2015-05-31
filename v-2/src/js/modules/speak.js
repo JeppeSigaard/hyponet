@@ -1,6 +1,8 @@
 var output,old_output;
 function makeOutput(brainData,brainLength,input,output,speak){
     
+    console.log(brainData,brainLength,input,output,speak);
+    
     old_output = output;
     
     for (var i=0, l=brainLength; i<l; i++){
@@ -69,7 +71,8 @@ function makeOutput(brainData,brainLength,input,output,speak){
     
         // Hvis intet resultat, returner et spørgsmålstegn
         if(output === '' || !output){output = '?';}
-        else{updateBrainData(brainData,output,false);}
+        
+        //else{updateBrainData(brainData,output,false,{data:output});}
     
     }
     
