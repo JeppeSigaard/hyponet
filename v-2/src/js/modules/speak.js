@@ -1,9 +1,9 @@
-var output,old_output;
+var output = '',old_output = '';
 function makeOutput(brainData,brainLength,input,output,speak){
     
-    console.log(brainData,brainLength,input,output,speak);
-    
     old_output = output;
+    
+    console.log(old_output,output);
     
     for (var i=0, l=brainLength; i<l; i++){
         
@@ -18,11 +18,13 @@ function makeOutput(brainData,brainLength,input,output,speak){
         }
     }
     
-    if(old_output !== output){
+    if(output !== '' && old_output !== output){
         makeOutput(brainData,brainLength,output,output,speak);
     }
     
     else{
+        
+        console.log('continuing with: ' + output);
     
         if(output === ''|| !output){
 
@@ -73,10 +75,11 @@ function makeOutput(brainData,brainLength,input,output,speak){
         if(output === '' || !output){output = '?';}
         
         //else{updateBrainData(brainData,output,false,{data:output});}
+        
+        speak.html(output);
     
     }
     
-    speak.html(output);
 }
 
 var doSpeak = function(event){
