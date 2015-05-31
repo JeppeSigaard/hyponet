@@ -319,5 +319,44 @@
         "one": "Jeppe",
         "two": "Henning"
     },
-    "158": "er sej"
+    "158": "er sej",
+    "159": "john",
+    "160": "john er",
+    "161": "john er en kunde",
+    "162": "en kunde er john",
+    "163": "john er en som k\u00f8ber ting",
+    "164": "john er er en somk\u00f8ber ting",
+    "165": {
+        "one": "john er en kunde",
+        "two": "john er er en somk\u00f8ber ting"
+    },
+    "166": "",
+    "167": "villads er",
+    "168": "ham der er lingvist er",
+    "169": {
+        "one": "villads er",
+        "two": "ham der er lingvist er"
+    },
+    "170": "jeppe",
+    "171": "Jeppe Sigaard",
+    "172": {
+        "one": "jeppe",
+        "two": "Jeppe Sigaard"
+    },
+    "173": "Jeppe Sigaard, Svendborg [5700] 21 93 74 65",
+    "174": {
+        "one": "Jeppe Sigaard",
+        "two": "Jeppe Sigaard, Svendborg [5700] 21 93 74 65"
+    },
+    "175": "Hvem skal k\u00f8be?",
+    "176": "Det skal kunder!",
+    "177": "spis en kiks",
+    "178": "Du kan finde kiks i k\u00f8kkenet",
+    "179": null,
+    "180": "Hvem skal finde mig n\u00e5r jeg ikke laver reklame?",
+    "181": {
+        "one": "Hvem skal k\u00f8be?",
+        "two": "Hvem skal finde mig n\u00e5r jeg ikke laver reklame?"
+    },
+    "182": "k\u00f8be"
 }

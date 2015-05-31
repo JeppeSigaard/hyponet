@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<script>
+
+    
+// opret alle substrings af string
+function makeSubstrings(string){ 
+    var returnArray = new Array();
+
+    for(var i = 0; i<string.length +1; i++){
+    
+        returnArray[i] = Array();
+        
+        for (var s = 0; s<string.length +1; s++){
+            var newVal = string.substring(s,s+i);
+            if(newVal !== '' && newVal !== ' ' && newVal.length >= i){
+                returnArray[i][s] = newVal;
+            }
+        }
+    }
+    
+    var merged = [];
+    merged = merged.concat.apply(merged, returnArray);
+    return merged;
+
+}
+    
+
+    </script>
+    
+</body>
+</html>

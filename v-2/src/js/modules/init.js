@@ -1,4 +1,4 @@
-var brainData;
+var brainData, brainLength;
 $(function(){
 
     // Hent hjernen
@@ -35,8 +35,8 @@ $(function(){
         var log = $('<div class="hyponet-log"></div>'),
             logWrap = $('<div class="hyponet-log-wrapper"></div>');
         brainData = brain.responseJSON;
-        var brainLength = Object.keys(brainData).length,
-            brainIteration = 0;
+        brainLength = Object.keys(brainData).length;
+        var brainIteration = 0;
         
         $.each(brainData, function(i, val) {
             
