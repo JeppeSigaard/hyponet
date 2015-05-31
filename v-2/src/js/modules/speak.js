@@ -10,7 +10,7 @@ function makeOutput(brainData,brainLength,input,output,speak){
         // Unbreak proto
         if (!brainData.hasOwnProperty(i)) {continue;}
         
-        if($.type(brainData[i]) !== 'string'){
+        if($.type(brainData[i]) !== 'string' || brainData[i] !== null ){
         
             if(brainData[i].one.toLowerCase() === input.toLowerCase()){
                 output = brainData[i].two;
