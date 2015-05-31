@@ -72,6 +72,7 @@ function makeOutput(brainData,brainLength,input,output,speak){
 
 
         speak.html(output);
+        updateBrainData(brainData,output,false)
     
     
     }
