@@ -69,13 +69,11 @@ function makeOutput(brainData,brainLength,input,output,speak){
     
         // Hvis intet resultat, returner et spørgsmålstegn
         if(output === '' || !output){output = '?';}
-
-
-        speak.html(output);
-        updateBrainData(brainData,output,false)
-    
+        else{updateBrainData(brainData,output,false);}
     
     }
+    
+    speak.html(output);
 }
 
 var doSpeak = function(event){
