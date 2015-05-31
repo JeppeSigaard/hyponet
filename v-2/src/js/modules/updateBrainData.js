@@ -1,5 +1,5 @@
 function updateBrainData(brainData,value,obj,data){
-    if(value && value !== '' && data !== null){
+    if(value && value !== '' && data.data !== null){
     
         var pos = Object.keys(brainData).length + 1;
         brainData[pos] = value;

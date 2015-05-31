@@ -330,7 +330,7 @@
         "one": "john er en kunde",
         "two": "john er er en somk\u00f8ber ting"
     },
-    "166": "",
+    "166": "ddddd",
     "167": "villads er",
     "168": "ham der er lingvist er",
     "169": {
@@ -352,11 +352,34 @@
     "176": "Det skal kunder!",
     "177": "spis en kiks",
     "178": "Du kan finde kiks i k\u00f8kkenet",
-    "179": null,
+    "179": "jeppe sigaard",
     "180": "Hvem skal finde mig n\u00e5r jeg ikke laver reklame?",
     "181": {
         "one": "Hvem skal k\u00f8be?",
         "two": "Hvem skal finde mig n\u00e5r jeg ikke laver reklame?"
     },
-    "182": "k\u00f8be"
+    "182": "k\u00f8be",
+    "183": "Villads kan godt lide ost",
+    "184": "",
+    "185": "Ham den lange kan godt lide ost",
+    "186": {
+        "one": "Villads kan godt lide ost",
+        "two": "Ham den lange kan godt lide ost"
+    },
+    "187": "",
+    "188": "Villadskan godt lide ost",
+    "189": {
+        "one": "Ham den lange kan godt lide ost",
+        "two": "Villadskan godt lide ost"
+    },
+    "190": "Villads &nbsp;godt lide ost",
+    "191": {
+        "one": "Villadskan godt lide ost",
+        "two": "Villads &nbsp;godt lide ost"
+    },
+    "192": "jeg kan &nbsp;godt lide ost",
+    "193": {
+        "one": "Villads &nbsp;godt lide ost",
+        "two": "jeg kan &nbsp;godt lide ost"
+    }
 }
